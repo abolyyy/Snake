@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/win_7/Desktop/Snake/game/main.cpp
+iostream
+-
+conio.h
+-
+cstdlib
+-
+windows.h
+-
+
